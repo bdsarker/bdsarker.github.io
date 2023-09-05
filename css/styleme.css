@@ -34,4 +34,6 @@ li{
     justify-content: center;
     align-items: center;
 }
-.validate-img
+.validate-img{
+    margin: 5px;
+}
